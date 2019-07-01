@@ -1,0 +1,125 @@
+#d1{
+    border: 3px solid rgb(211, 123, 8);
+    position:absolute;
+    background-color: rgb(37, 182, 32);
+    width: 100%;
+    height: 10%;
+    font-size: 50px;
+    text-align: center;
+    z-index: 0;
+}
+#d2{
+    font-size: 50px;
+    text-align: left;
+    position: absolute;
+    top:2%;
+    width: 10%;
+    height:7.6%;
+    margin-left:1%;
+    background-color:rgb(218, 91, 45);
+    z-index: 1;
+}
+#d4{
+    margin-left:82%;
+    position: absolute;
+    z-index: 5;
+}
+#d5{
+    background-color:rgb(255, 255, 255);
+    width:40%;
+    height:75%;
+    border-radius: 15px; 
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 30%;
+    border: 20px dashed rgb(211, 123, 8);
+    z-index: 10;
+    font-size: 50px;
+}
+.tabl{
+    position: absolute;
+    z-index: 8;
+    margin: 100px;
+}
+#none{
+    position: absolute;
+    background-color: rgba(2, 24, 16, 0.493);
+    width:100%;
+    height: 100%;
+    z-index:7;
+}
+#QuestI{
+    margin-left: 30%;
+    padding: 7px;
+    text-align:center;
+    width:40%;
+    border-radius:10px;
+}
+#NameI{
+    margin-top:45%;
+    margin-left: 30%;
+    padding: 7px;
+    text-align:center;
+    width:40%;
+    border-radius:10px;
+}
+#ImgInInner{
+    margin-left:30%;
+    width:7%;
+}
+#test{
+    position: absolute;
+    display:flex;
+}
+#button{
+    position: absolute;
+    margin-top:2%;
+    margin-left:39%;
+    width:30%;
+    height:60%;
+    background-color: rgba(235, 231, 3, 0.829);
+    border:3px solid rgb(251, 163, 0);
+    border-radius: 15px;
+}
+.qQuestI{
+    margin-left: 30%;
+    padding: 7px;
+    text-align:center;
+    width:40%;
+    border-radius:10px;
+}
+.ahref{
+    position: absolute;
+    width: 20%;
+    background-color: brown;
+    z-index:20;
+}
+#delete{
+    background-color: rgba(240, 248, 255, 0.52);
+    opacity:0;
+    position:absolute;
+}
+.p{
+    position: absolute;
+}
+#main{
+    position: absolute;
+    margin-top: 10%;
+    width: 100%;
+    height:70%;
+}
+.div-list{
+    margin-left:50%;
+    width:6%;  
+    background:#fd8802; 
+    float:left; 
+    margin: 0 15px 15px 0; 
+    text-align:center;
+    padding: 10px;
+    border-radius:10px;
+}
+.div2{
+    width:100%; 
+    height:100%;
+    background-color: rgb(158, 189, 56);
+}
